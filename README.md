@@ -8,8 +8,9 @@ Voice Activity Detection & Audio Event Detection
 </div>
 
 [[Paper]](https://arxiv.org/pdf/2603.10420)
-[[HuggingFace]](https://huggingface.co/FireRedTeam/FireRedVAD)
-[[ModelScope]](https://www.modelscope.cn/models/xukaituo/FireRedVAD)
+[[Model🤗]](https://huggingface.co/FireRedTeam/FireRedVAD)
+[[Model🤖]](https://www.modelscope.cn/models/xukaituo/FireRedVAD)
+[[Demo]](https://huggingface.co/spaces/FireRedTeam/FireRedASR2S)
 
 
 FireRedVAD is a state-of-the-art (SOTA) industrial-grade Voice Activity Detection (VAD) and Audio Event Detection (AED) solution.
